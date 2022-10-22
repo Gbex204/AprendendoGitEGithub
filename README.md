@@ -1,2 +1,2 @@
 # AprendendoGitEGithub
-Aprendendo
+Aprendendo um pouco de Git & Github
